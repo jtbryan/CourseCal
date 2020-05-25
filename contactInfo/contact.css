@@ -1,0 +1,33 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #fff;
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+}
+
+hr {
+    width: 25%;
+}
+
+ul {
+    list-style-type: none;
+}
+
+h3 {
+    color: #ff9680;
+}
+
+a {
+    color: #000;
+}
+
+p {
+    font-size: 13px;
+    line-height: 150%;
+}
+
+#header {
+    color: #505050;
+    text-align: center;
+}

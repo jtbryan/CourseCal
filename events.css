@@ -1,0 +1,60 @@
+body {
+    background-color: #202020;
+}
+
+#inputs {
+    color: white;
+    margin-left: 30%;
+    font-size: 18px;
+}
+
+#inputs div {
+    margin-top: 40px;
+}
+
+#desc {
+    margin-left: 10%;
+}
+
+#local {
+    margin-left: 19.5%;
+}
+
+#stime {
+    margin-left: 18.7%;
+    width: 22.7%
+}
+
+#etime {
+    margin-left: 19.5%;
+    width: 22.7%
+}
+
+#eventdate {
+    margin-left: 24%;
+    width: 22.7%;
+}
+
+#homeloc #homeButton {
+    margin-top: 8%;
+    margin-left: 43.6%;
+}
+
+#homeloc #homeButton:hover {
+    cursor: pointer
+}
+
+body #submitButton {
+    border: 3px solid grey;
+    color: white;
+    background-color: #202020;
+    display:inline-block;
+    margin-top: 3%;
+    margin-left: 43.4%;
+}
+
+body #submitButton:hover {
+    background-color: rgba(3, 191, 238, 0.562);
+    border: 3px solid rgb(90, 114, 121);
+    cursor: pointer;
+}
