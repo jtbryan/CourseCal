@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/utk-cs/2019fall_deadpool#readme",
   "devDependencies": {
-    "electron": "^7.2.4",
+    "electron": "^18.3.7",
     "jest": "^24.9.0",
     "pdfjs-dist": "^2.1.266"
   },
